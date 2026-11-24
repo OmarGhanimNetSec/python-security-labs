@@ -1,0 +1,15 @@
+venv/
+myenv/
+.venv/
+env/
+__pycache__/
+*.py[cod]
+report.txt
+password.txt
+passwords.txt
+password_report.txt
+attempt_log.txt
+baseline.json
+saved_data.json
+*.log
+.DS_Store
